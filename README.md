@@ -1,6 +1,6 @@
 ## Bluetooth controlled hovercraft project
 
-- Niklas Raesalmi (PM)
+- Niklas Raesalmi 
 - Niranjan Sreegith
 - Leevi Ulvinen
 - Kasperi Ervasti
